@@ -1,2 +1,4 @@
+
 # Estrutura de Repetição
-## trtr
+## Exercícios propostos pela plataforma da Dio.
+
