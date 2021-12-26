@@ -1,2 +1,2 @@
 # Estrutura de Repetição 
-##Desafio proposto pela plataforma da Dio
+##Desafio proposto pela plataforma da Dio.
